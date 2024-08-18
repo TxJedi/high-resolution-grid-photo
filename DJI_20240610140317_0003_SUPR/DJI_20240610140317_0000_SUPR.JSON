@@ -1,0 +1,50 @@
+{
+	"rsr_images_info":	{
+		"capture_region":	{
+			"left":	0.25,
+			"top":	0.25,
+			"right":	0.75,
+			"bottom":	0.50178772211074829,
+			"row_num":	2,
+			"column_num":	4
+		},
+		"fpv_image":	{
+			"file_name":	"DJI_20240610140317_0000_V.JPG",
+			"file_index":	2359354,
+			"sub_index":	0
+		},
+		"zoom_images":	[{
+				"file_name":	"DJI_20240610140320_0001_SUPR.JPG",
+				"file_index":	2359354,
+				"sub_index":	1
+			}, {
+				"file_name":	"DJI_20240610140322_0002_SUPR.JPG",
+				"file_index":	2359354,
+				"sub_index":	2
+			}, {
+				"file_name":	"DJI_20240610140323_0003_SUPR.JPG",
+				"file_index":	2359354,
+				"sub_index":	3
+			}, {
+				"file_name":	"DJI_20240610140325_0004_SUPR.JPG",
+				"file_index":	2359354,
+				"sub_index":	4
+			}, {
+				"file_name":	"DJI_20240610140327_0005_SUPR.JPG",
+				"file_index":	2359354,
+				"sub_index":	5
+			}, {
+				"file_name":	"DJI_20240610140329_0006_SUPR.JPG",
+				"file_index":	2359354,
+				"sub_index":	6
+			}, {
+				"file_name":	"DJI_20240610140331_0007_SUPR.JPG",
+				"file_index":	2359354,
+				"sub_index":	7
+			}, {
+				"file_name":	"DJI_20240610140333_0008_SUPR.JPG",
+				"file_index":	2359354,
+				"sub_index":	8
+			}]
+	}
+}
